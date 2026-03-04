@@ -20,7 +20,7 @@
     const API_KEY = ''; // Private ClickUp API key
 
     // Base timer options
-    const ENABLE_BASE_TIMER = true; // Enable default timer after leaving meeting
+    const ENABLE_BASE_TIMER = false; // Enable default timer after leaving meeting
     const BASE_TASK_ID = '86c1tk27q'; // ID of default task (timer)
     const BASE_TASK_DESC = 'Own work'; // Description of default timer (info sent to CU and displayed in general tracker)
 
